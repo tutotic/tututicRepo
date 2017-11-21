@@ -93,8 +93,17 @@
                     <td  > 
      
                         <font size="3">
-                            1.xcffxgfgcfghfghcfghggh <br>
-                            2. sdfjbdsgfdsjf
+                          
+¿Cómo restaurar los valores predeterminados de fábrica de tu Samsung Galaxy tab? <br>
+
+Desde la pantalla de inicio, presiona Aplicaciones > Configuración > Cuentas.<br>
+En la sección Opciones copia de seguridad, pulsa Copia de seguridad y restaurar. <br>
+En la sección Datos personales, pulsa Restablecer valores predeterminados: <br>
+
+
+Pulsa Restablecer dispositivo y selecciona Eliminar todo. <br>
+Tu Galaxy tab se reiniciará. Espera hasta que el procedimiento termine. <br>
+
                         </font>
 
                     </td>
