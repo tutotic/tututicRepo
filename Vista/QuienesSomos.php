@@ -76,8 +76,37 @@
             <div class="panel">
 
                 <font size="4">
-                    dakfszkfbdkjbgkjdfnbdfngkjfnm,gnb,mngkngfnbmgnbmcvnbkmgfklghfg
-                    <br> Sdfghfhghjghjvhjvhjkvhjkvhjkjhkjkcgk
+                    
+                    
+TUTOTIC´S.com Es una página web creada por un equipo de programadores profesionales,  <br>
+con alta experiencia en desarrollo de páginas web, buscando dar soluciones <br>
+a problemas de tecnologías existentes y creando nuevas soluciones con el objetivo de dar <br>
+una respuesta integral y eficaz a las personas.<br>
+
+En esta página web puedes hacer consultas sobre lo que necesites con respecto a dispositivos <br>
+o aparatos electrónicos actuales como son: los Smartphone, TV Y Tables, con el contenido necesario  <br>
+para realizar algunos de estos procedimientos; ayudándote a que tú mismo resuelvas tus problemas sin <br>
+necesidad de acudir y aburrir a tus familiares sobre preguntas y respuestas que puedes encontrar aquí. <br>
+                    
+                    <center> MISIÓN </center>        <br>
+
+Dar respuesta a las necesidades de  aparatos electrónicos, con un paso a paso  de forma integral y eficaz, <br>
+con el objetivo de incrementar su competitividad y productividad. Para ello implementamos soluciones <br>
+prácticas adaptadas a sus necesidades y desarrollamos nuevas soluciones creativas. <br>
+
+Nuestra base parte de las personas que apenas se están adaptando a las nuevas tecnologías <br>
+y que les cuesta manejar, resolver los problemas con respecto a estos.<br>
+
+
+
+
+                          <center>  VISIÓN </center> <br>
+
+Un servicio compuesto por un grupo de programadores profesionales. Queremos estar comprometidos con <br>
+los problemas de las personas de forma transparente y eficaz para convertirnos en su aliado de confianza. <br>
+En nuestra visión queremos ser un equipo de programadores  de referencia, que camina con el cambio de los <br>
+problemas tecnológicos en la sociedad.<br>
+
 
                 </font>
 
