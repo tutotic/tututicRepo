@@ -93,8 +93,70 @@
                     <td  > 
      
                         <font size="3">
-                            1.xcffxgfgcfghfghcfghggh <br>
-                            2. sdfjbdsgfdsjf
+                           Actualizar las aplicaciones Android: <br>
+                            <br>
+
+Puedes actualizar las aplicaciones que has descargado e instalado en tu dispositivo Android de forma manual <br>
+o automática. Mantén tus aplicaciones actualizadas para tener acceso a las últimas funciones y disfrutar de <br>
+un mayor nivel de seguridad y estabilidad.<br>
+<br>
+Nota: Si Google determina que la actualización de una aplicación permite solucionar una vulnerabilidad de seguridad crítica,<br>
+es posible que actualicemos ciertas aplicaciones independientemente de la configuración de actualización establecida en la <br>
+aplicación o en tu dispositivo. Para obtener más información, consulta las Condiciones de Servicio de Google Play.<br>
+<br>
+Nota: Si utilizas Google Play en un Chromebook, consulta este artículo sobre las actualizaciones de las aplicaciones.<br>
+
+<br>
+ <br>
+<br>
+Actualizar automáticamente las aplicaciones Android<br>
+                            <br>
+
+Para hacer que las aplicaciones de tu dispositivo Android se actualicen automáticamente, haz lo siguiente:<br>
+                            <br>
+
+1.Abre la aplicación Google Play Store Google Play.<br>
+2.Toca Menú Menú a continuación Ajustes.<br>
+3.Toca Actualizar aplicaciones automáticamente.<br>
+4.Selecciona una de estas opciones.<br>
+  *Actualizar aplicaciones automáticamente en cualquier momento: las aplicaciones se actualizan en cualquier momento, <br>
+   tanto si utilizas una conexión Wi-Fi como una conexión de datos móviles.<br>
+   *Actualizar las aplicaciones automáticamente solo a través de Wi-Fi: las aplicaciones se actualizan solo cuando <br>
+   el dispositivo está conectado a una red Wi-Fi.<br>
+<br>
+Nota: Si una cuenta del dispositivo tiene un error de inicio de sesión, es posible que las aplicaciones no se actualicen <br>
+automáticamente. <br>
+<br>
+Actualizar automáticamente aplicaciones Android específicas<br>
+<br>
+Para configurar las actualizaciones de aplicaciones específicas, sigue estos pasos:<br>
+<br>
+1.Abre la aplicación Google Play Store Play Store.<br>
+2.Toca Menú Menúa continuación Mis aplicaciones y juegos.<br>
+3.Selecciona la aplicación que quieras actualizar.<br>
+4.Toca Más Más:
+5.Marca la casilla de verificación situada junto a la opción "Actualizar automáticamente".<br>
+<br>
+La aplicación se actualizará automáticamente cuando haya actualizaciones disponibles. <br>
+Para desactivar las actualizaciones automáticas, desmarca la casilla.<br>
+<br>
+<br>
+Actualizar manualmente las aplicaciones Android<br>
+<br>
+Para actualizar las aplicaciones de forma individual o conjunta utilizando la aplicación Google Play Store de <br>
+tu dispositivo móvil, haz lo siguiente:<br>
+<br>
+1.Abre la aplicación Google Play Store Play Store.<br>
+2.Toca Menú Menúa continuación Mis aplicaciones y juegos.<br>
+3.Las aplicaciones con actualizaciones pendientes incluirán la opción "Actualizar".<br>
+4.Toca Actualizar todo para actualizar todas las aplicaciones. Si quieres actualizar una sola aplicación, <br>
+búscala y toca Actualizar.<br>
+<br>
+Nota: Algunas aplicaciones necesitan nuevos permisos cuando se actualizan. Es posible que aparezca una notificación <br>
+en la que debes confirmar que estás de acuerdo con los nuevos permisos.<br>
+<br>
+Consejo: En algunos casos, es posible que tengas que reiniciar el dispositivo para actualizar una aplicación. <br>
+                            
                         </font>
 
                     </td>
