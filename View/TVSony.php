@@ -84,7 +84,7 @@
                 <tr>
                     <td class="productos">
                         <label for="1">
-                            <h3> Sony </h3>
+                            <h3> Configuracion Basica SmartTv Sony </h3>
                         </label>
                         <form data-toggle="modal" data-target="#myModal">
                             <input type="image" href="Tables.html" class="img2" id="1" src="../Imagenes/tabletsony.png">
@@ -93,8 +93,29 @@
                     <td  > 
      
                         <font size="3">
-                            1.xcffxgfgcfghfghcfghggh <br>
-                            2. sdfjbdsgfdsjf
+                           Para conectar a internet un televisor inteligente de Sony, <br> 
+debes pulsar el botón MENU del mando a distancia. Después, <br> 
+en la pantalla, desplázate hasta la opción Red. Sitúate sobre <br> 
+ Conexión de Red y elige tu tipo de conexión (Cable o Inalámbrica/WiFi). <br> 
+<br> 
+Si tu televisor lo has conectado con cable de red y has seleccionado esta <br> 
+opción en el menú, ya deberías estar conectado. Si en cambio debes <br> 
+conectarte por WiFi, deberías haber seleccionado Red Inalámbrica y <br> 
+ después entra en Configuración de Red Inalámbrica. Te aparecerán las <br> 
+conexiones WiFi disponibles: selecciona la tuya e introduce la contraseña. <br> 
+Si lo has hecho correctamente, te aparecerá un mensaje informándote de <br> 
+ que la tele se ha conectado a internet con éxito. <br> 
+<br> 
+Esperamos que, si has seguido todos estos pasos, hayas conseguido conectar <br> 
+ a internet tu Smart TV. Ahora, cuando por ejemplo sintonices La 1, te aparecerá  <br> 
+una indicación para pulsar el botón rojo y ver programas a la carta <br> 
+ (debes activar la opción HbbTV si no te sale). A través del menú de tu televisor, <br> 
+ también podrás entrar en tus redes sociales, descargarte aplicaciones y más. <br> 
+En este punto, quizás te interese conocer los servicios de videoclub online y tv <br> 
+a la carta que puedes disfrutar a traves de tu televisor interligente.<br> 
+<br> 
+<br> 
+<br> 
                         </font>
 
                     </td>
