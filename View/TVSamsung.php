@@ -93,8 +93,16 @@
                     <td  > 
      
                         <font size="3">
-                            1.xcffxgfgcfghfghcfghggh <br>
-                            2. sdfjbdsgfdsjf
+                           configuracion facil se samsung SMART TV <br>
+                            Conecta tu Samsung Smart TV a Internet.<br>
+<br>
+Puedes conectar tu televisión directamente mediante un cable de área local LAN <br>
+(Local Area Network) desde el router o hacerlode manera inalámbrica, aunque <br>
+en este caso algunos modelos necesitarán un adaptador inalámbrico Samsung:<br>
+<br>
+• Accede al Menú pulsando el botón Home de tu mando a distancia, ve a Red <br>
+y después selecciona Configuración de red.<br>
+                            
                         </font>
 
                     </td>
