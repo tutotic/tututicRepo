@@ -87,7 +87,7 @@
                             <h3> configuracion basica SmartTv Samsung  </h3>
                         </label>
                         <form data-toggle="modal" data-target="#myModal">
-                                <input type="image" class="img2" src="../Imagenes/Samsung7.7Tablet.png">
+                                <input type="image" class="img2" src="../Imagenes/tvsamsung.jpg">
                         </form>
                     </td>
                     <td  > 
