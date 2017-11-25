@@ -116,6 +116,9 @@ seguridad de tus datos antes de efectuarlo, puedes leer esta guía.<br>
 NOTA: a partir del lanzamiento de Android 5.1, Google estrena una protección ante el Factory Reset para evitar <br>
 restablecimientos no consentidos del terminal (por ejemplo si te lo han robado). Puedes leer toda la información <br>
 en esta guía.<br>
+                            <br>
+                            <br>
+                            <br>
                         </font>
 
                     </td>
