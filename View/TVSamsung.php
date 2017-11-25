@@ -102,6 +102,46 @@ en este caso algunos modelos necesitarán un adaptador inalámbrico Samsung:<br>
 <br>
 • Accede al Menú pulsando el botón Home de tu mando a distancia, ve a Red <br>
 y después selecciona Configuración de red.<br>
+                            • Elige el tipo de conexión que quieres usar y sigue los pasos que te indican: <br>
+<br>
+A. Cable LAN: Directamente desde el router al televisor. <br>
+<br>
+B. Inalámbrico (general) o Wireless: Configure la conexión <br>
+ a la red inalámbrica de su hogar. Puede que necesites especificar <br>
+ la clave de seguridad según la configuración del router inalámbrico. <br>
+<br>
+C. WPS (PBC): Conéctate fácilmente al router inalámbrico con sólo <br>
+ pulsar el botón WPS (PBC). Seleccione esta conexión si tu router es <br>
+compatible con esta opción.<br>
+                            <br>
+
+• Una vez realizado el proceso, el sistema te informará de que estás <br>
+ correctamente conectado a internet. <br>
+<br>
+Crea una Samsung Account<br>
+<br>
+Una vez conectado, necesitas crear tu Samsung Account. para ello,<br>
+ debes entraren de nuevo en el botón Home de tu mando a distancia<br>
+ y seguir estos pasos: <br>
+<br>
+• Entra en Funciones Smart.<br>
+<br>
+• Después en Cuenta de Samsung.<br>
+<br>
+• Introduce una dirección de correo electrónico válida y elige una <br>
+contraseña.<br>
+<br>
+<br>
+Crea una Samsung Account <br>
+• La contraseña debe tener una longitud de entre 6 y 12 caracteres <br>
+y puede ser una combinación de letras, números y símbolos. Si te<br>
+ resulta más fácil, puedes emparejar tu dispositivo de la familia Galaxy* <br>
+ (tablet, note o smartphone) con el televisor y utilizarlo como mando a distancia.<br>
+<br>
+• El televisor te permite registrar hasta 10 cuentas en un mismo televisor.<br>
+<br>
+Activa la opción de Recordar contraseña para que te resulte más fácil acceder <br>
+en la siguiente ocasión si estás en un televisor que sólo tú utilices.<br>
                             
                         </font>
 
