@@ -143,13 +143,17 @@ y puede ser una combinación de letras, números y símbolos. Si te<br>
 Activa la opción de Recordar contraseña para que te resulte más fácil acceder <br>
 en la siguiente ocasión si estás en un televisor que sólo tú utilices.<br>
                             
+                           <br>
+                            <br>
+                            aqui abajo te mostraremos un video para guiarte <br>
+                            
                         </font>
 
                     </td>
                 </tr>
 
             </table>
-
+<iframe width="480" height="360" src="https://www.youtube.com/embed/ZVm9zs8UEqs" frameborder="0" gesture="media" allowfullscreen></iframe>
         </div> </div>
 
 </body>
