@@ -83,7 +83,7 @@
                 <tr>
                     <td class="productos">
                         <label for="1">
-                            <h3> LG </h3>
+                            <h3> configuracion basica de un SmartTv LG </h3>
                         </label>
                         <form>
                             <input type="image" class="img2" id="3" src="../Imagenes/LG_G.png">
@@ -92,8 +92,28 @@
                     <td>
 
                         <font size="3">
-                            1.xcffxgfgcfghfghcfghggh
-                            <br> 2. sdfjbdsgfdsjf
+                          Para configurar la conexión en un televisor de LG <br>
+deberás pulsar el botón Configuración de tu mando. <br>
+Si no tienes este botón, entonces pulsa Home y luego <br>
+ con las flechas seleccionar la opción Configuración. <br>
+<br>
+Conexión a internet de LG Smart TV <br>
+<br>
+
+Te aparecerá un menú lateral a la izquierda de la <br>
+pantalla. Desplázate hacia abajo hasta un icono <br>
+con una bola del mundo. Dentro de él, elige Conexiones <br> 
+de Red y después Iniciar conexión. <br>
+<br>
+Si has conectado la tele mediante cable de red, selecciona <br>
+la primera opción. Si no, te aparecerá una lista de redes <br>
+WiFi entre las que tendrás que elegir la tuya e introducir <br>
+su contraseña. <br>
+<br>
+
+Si quieres descargar aplicaciones, también tendrás que <br>
+crear una cuenta en los servicios de LG. Podrás e hacerlo <br>
+ cuando elijas una. <br>
                         </font>
 
                     </td>
