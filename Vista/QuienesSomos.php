@@ -87,7 +87,7 @@ En esta página web puedes hacer consultas sobre lo que necesites con respecto a
 o aparatos electrónicos actuales como son: los Smartphone, TV Y Tables, con el contenido necesario  <br>
 para realizar algunos de estos procedimientos; ayudándote a que tú mismo resuelvas tus problemas sin <br>
 necesidad de acudir y aburrir a tus familiares sobre preguntas y respuestas que puedes encontrar aquí. <br>
-                    
+                    <br>
                     <center> MISIÓN </center>        <br>
 
 Dar respuesta a las necesidades de  aparatos electrónicos, con un paso a paso  de forma integral y eficaz, <br>
@@ -99,7 +99,7 @@ y que les cuesta manejar, resolver los problemas con respecto a estos.<br>
 
 
 
-
+<br>
                           <center>  VISIÓN </center> <br>
 
 Un servicio compuesto por un grupo de programadores profesionales. Queremos estar comprometidos con <br>
