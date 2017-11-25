@@ -114,12 +114,27 @@ su contraseña. <br>
 Si quieres descargar aplicaciones, también tendrás que <br>
 crear una cuenta en los servicios de LG. Podrás e hacerlo <br>
  cuando elijas una. <br>
+                            <br>
+                            aqui abajo te mostraremos un video para que te guies<br>
+                            <br>
                         </font>
 
                     </td>
                 </tr>
 
             </table>
+
+       
+            <iframe width="640" height="360" src="https://www.youtube.com/embed/KodVmFaEt-s" frameborder="0" gesture="media" allowfullscreen></iframe>
+       <br>
+            <br>
+        </div>
+        
+    </div>
+
+</body>
+
+</html>
 
         </div>
     </div>
