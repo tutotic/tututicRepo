@@ -84,7 +84,7 @@
                 <tr>
                     <td class="productos">
                         <label for="1">
-                            <h3> Samsung  </h3>
+                            <h3> configuracion basica SmartTv Samsung  </h3>
                         </label>
                         <form data-toggle="modal" data-target="#myModal">
                                 <input type="image" class="img2" src="../Imagenes/Samsung7.7Tablet.png">
@@ -93,7 +93,7 @@
                     <td  > 
      
                         <font size="3">
-                           configuracion facil se samsung SMART TV <br>
+                           configuracion basica se samsung SMART TV <br>
                             Conecta tu Samsung Smart TV a Internet.<br>
 <br>
 Puedes conectar tu televisión directamente mediante un cable de área local LAN <br>
