@@ -94,8 +94,28 @@
                     <td>
 
                         <font size="3">
-                            1.xcffxgfgcfghfghcfghggh
-                            <br> 2. sdfjbdsgfdsjf
+                          El reset o restablecimiento de fábrica es un proceso similar al formateo de los ordenadores personales. <br>
+Elimina toda la información del almacenamiento interno del teléfono y deja el terminal como recién comprado.<br>
+ <br>
+De vez en cuando, es buena práctica realizar un restablecimiento de fábrica del terminal, pues funcionará como <br>
+el primer día. Aunque no se elimina el contenido de la tarjeta SD, te recomendamos que la extraigas por seguridad.<br>
+ <br>
+¿Qué datos son eliminados?<br>
+ <br>
+Cuenta de Google <br>
+Otras cuentas de aplicaciones y correo <br>
+Ajustes personalizados del sistema <br>
+Ajustes personalizados de las aplicaciones <br>
+Todas las aplicaciones descargadas <br>
+Licencias de derechos digitales (DRM) <br>
+Música, imágenes, documentos y copias de seguridad almacenados en la memoria interna<br>
+ <br>
+Tenlo en cuenta para estar totalmente seguro antes de llevarlo a cabo. Te recomendamos realizar una copia de <br>
+seguridad de tus datos antes de efectuarlo, puedes leer esta guía.<br> 
+<br>
+NOTA: a partir del lanzamiento de Android 5.1, Google estrena una protección ante el Factory Reset para evitar <br>
+restablecimientos no consentidos del terminal (por ejemplo si te lo han robado). Puedes leer toda la información <br>
+en esta guía.<br>
                         </font>
 
                     </td>
