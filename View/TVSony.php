@@ -87,7 +87,7 @@
                             <h3> Configuracion Basica SmartTv Sony </h3>
                         </label>
                         <form data-toggle="modal" data-target="#myModal">
-                            <input type="image" href="Tables.html" class="img2" id="1" src="../Imagenes/tabletsony.png">
+                            <input type="image" href="Tables.html" class="img2" id="1" src="../Imagenes/tvsony.jpg">
                         </form>
                     </td>
                     <td  > 
