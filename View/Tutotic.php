@@ -144,11 +144,11 @@
 
                 <td class="productos">
                     <div class="thumbnail">
-                        <input type="image" class="img2" title="SMART-PHONE" src="../Imagenes/Smatphone.png">
+                        <input type="image" class="img2" title="SMARTPHONE" src="../Imagenes/Smatphone.png">
                         <center>
                             <div class="caption">
                                 <h4>
-                                    <b>SMART-PHONE</b>
+                                    <b>SMARTPHONE</b>
                                 </h4>
                                 <p>Para acceder a los tutoriales sobre Smartphones pulsa el boton ir</p>
 
