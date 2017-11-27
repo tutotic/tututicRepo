@@ -19,6 +19,17 @@
 
     <meta charset="utf-8" />
     <title>Practica bootstrap</title>
+    <script type='text/JavaScript'>
+        function blmostrocult(blconted) {
+        var c=blconted.nextSibling;
+        if(c.style.display=='none') {
+        c.style.display='block';
+        } else {
+        c.style.display='none';
+        }
+        return false;
+        }
+        </script>
 </head>
 
 <body>
@@ -93,8 +104,8 @@
                     <td  > 
      
                         <font size="3">
-                          Como formatear un celular LG <br>
-
+                          nuestros tutoriales disponibles para este dispositivo son: ⇩⇩⇩<br>
+                          <br>
 
 Si estas buscando como formatear un celular LG , puede ser por los siguientes problemas con tu Smartphone LG: <br>
 
@@ -106,7 +117,6 @@ Si estas buscando como formatear un celular LG , puede ser por los siguientes pr
 *Tu celular va super lento <br>
 O quien sabe que otra cosa pase para que estés buscando en Internet: Como formatear un celular LG <br>
  <br>
-<br>
 No es un problema, ya que en esta ocasión vamos a enseñarte Como formatear un celular LG con 2 métodos seguros <br>
 y fáciles de realizar, solo sigue los pasos que te daremos a continuación <br>
 <br>
@@ -116,8 +126,12 @@ puedes realizar desde las mismas opciones del móvil. <br>
 Procedemos a explicarte como formatear un celular LG  :  <br>
 
 <br>
+aqui te mostramos 2 metodos para formatear tu smartphone lg ⇩⇩⇩ <br>
 <br>
 <br>
+
+<a onclick="return blmostrocult(this);" style="cursor: hand; cursor: pointer;">Metodo 1</a><div style="display: none;">
+        <br>
  
 Método 1:<br>
 <br>
@@ -132,7 +146,13 @@ con los siguientes pasos.<br>
 <br>
 Si aun no solucionaste tu duda sobre Como formatear un celular LG  y En caso el móvil insista que no se puede formatear lo tendremos que hacer con ayuda <br>
 de una PC y para ello seguiremos los siguientes pasos:<br>
-<br>
+<br> </div>
+
+         </br>
+     </div>
+ 
+             <a onclick="return blmostrocult(this);" style="cursor: hand; cursor: pointer;">Metodo 2:</a><div style="display: none;">
+                     <br>
 Método 2:<br>
 <br>
 1. Primero conectamos la tablet a una PC y nos vamos a “Ajustes” – Opciones de desarrollo, y luego activamos la palomita, depuración USB. <br>
@@ -140,7 +160,18 @@ Método 2:<br>
 “Adb shell” damos enter, y escribimos ” wipe data” damos enter y nuevamente escribimos “reboot sistema”. <br>
 3. Como verán el celular comenzara a reiniciarse y ya se han eliminado todos los datos, y nos queda configurarla con agregando nuestra cuenta de Gmail, <br>
 etc. La primera vez demorar en encender la tablet así que esta parte hay que tener paciencia. <br>
-                            
+</div>
+
+         </br>
+         <br>
+         <br>
+adicional a esta informacion te adjuntamos un video para que puedas hacerlo desde una forma interactiva ⇩⇩⇩<br>
+<br>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/A16mrmLSTnY" frameborder="0" gesture="media" allowfullscreen></iframe>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
                         </font>
 
                     </td>
@@ -149,7 +180,8 @@ etc. La primera vez demorar en encender la tablet así que esta parte hay que te
             </table>
 
         </div> </div>
-
+        
 </body>
 
 </html>
+
