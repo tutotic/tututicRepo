@@ -110,7 +110,7 @@ Tu Galaxy tab se reiniciará. Espera hasta que el procedimiento termine. <br>
                 </tr>
 
             </table>
-
+<iframe width="480" height="360" src="https://www.youtube.com/embed/MYiMUS8aoq8" frameborder="0" gesture="media" allowfullscreen></iframe>
         </div> </div>
 
 </body>
