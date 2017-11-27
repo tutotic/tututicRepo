@@ -93,7 +93,7 @@
                                     </h4>
                                     <p>Tutorial</p>
 
-                                    <a href="TbSony.html" class="btn btn-primary" role="button">IR</a>
+                                    <a href="SmartphoneSony.html" class="btn btn-primary" role="button">IR</a>
                                 </div>
                             </center>
                         </div>
