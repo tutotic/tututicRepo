@@ -19,6 +19,17 @@
 
     <meta charset="utf-8" />
     <title>Practica bootstrap</title>
+    <script type='text/JavaScript'>
+        function blmostrocult(blconted) {
+        var c=blconted.nextSibling;
+        if(c.style.display=='none') {
+        c.style.display='block';
+        } else {
+        c.style.display='none';
+        }
+        return false;
+        }
+        </script>
 </head>
 
 <body>
@@ -93,23 +104,26 @@
                     <td  > 
      
                         <font size="3">
-                           Actualizar las aplicaciones Android: <br>
-                            <br>
-
-Puedes actualizar las aplicaciones que has descargado e instalado en tu dispositivo Android de forma manual <br>
-o automática. Mantén tus aplicaciones actualizadas para tener acceso a las últimas funciones y disfrutar de <br>
-un mayor nivel de seguridad y estabilidad.<br>
+                                Aqui abajo puedes encontrar los tutoriales disponibles por tutotic ⇩⇩⇩ <br>
+                                <br>
+                                <a onclick="return blmostrocult(this);" style="cursor: hand; cursor: pointer;">Actualizar manualmente las aplicaciones Android
+                                    </a><div style="display: none;">
+                                            <br>
+                        
+Puedes actualizar las aplicaciones que has descargado e instalado en tu dispositivo Android de forma manual o automática. <br>
+Mantén tus aplicaciones actualizadas para tener acceso a las últimas funciones y disfrutar de un mayor nivel de seguridad y estabilidad.<br>
 <br>
 Nota: Si Google determina que la actualización de una aplicación permite solucionar una vulnerabilidad de seguridad crítica,<br>
-es posible que actualicemos ciertas aplicaciones independientemente de la configuración de actualización establecida en la <br>
-aplicación o en tu dispositivo. Para obtener más información, consulta las Condiciones de Servicio de Google Play.<br>
+es posible que actualicemos ciertas aplicaciones independientemente de la configuración de actualización establecida en la aplicación o en tu dispositivo.<br>
+ Para obtener más información, consulta las Condiciones de Servicio de Google Play.<br>
 <br>
 Nota: Si utilizas Google Play en un Chromebook, consulta este artículo sobre las actualizaciones de las aplicaciones.<br>
+<br>
 
+</div>
 <br>
- <br>
-<br>
-Actualizar automáticamente las aplicaciones Android<br>
+<a onclick="return blmostrocult(this);" style="cursor: hand; cursor: pointer;">Actualizar automáticamente las aplicaciones Android</a><div style="display: none;">
+        <br>
                             <br>
 
 Para hacer que las aplicaciones de tu dispositivo Android se actualicen automáticamente, haz lo siguiente:<br>
@@ -128,6 +142,10 @@ Nota: Si una cuenta del dispositivo tiene un error de inicio de sesión, es posi
 automáticamente. <br>
 <br>
 Actualizar automáticamente aplicaciones Android específicas<br>
+</div>
+<br>
+            <a onclick="return blmostrocult(this);" style="cursor: hand; cursor: pointer;">Para configurar las actualizaciones de aplicaciones específicas</a><div style="display: none;">
+                    <br>
 <br>
 Para configurar las actualizaciones de aplicaciones específicas, sigue estos pasos:<br>
 <br>
@@ -141,6 +159,11 @@ La aplicación se actualizará automáticamente cuando haya actualizaciones disp
 Para desactivar las actualizaciones automáticas, desmarca la casilla.<br>
 <br>
 <br>
+</div>
+<br>
+            <a onclick="return blmostrocult(this);" style="cursor: hand; cursor: pointer;">Actualizar manualmente las aplicaciones Android
+            </a><div style="display: none;">
+                    <br>
 Actualizar manualmente las aplicaciones Android<br>
 <br>
 Para actualizar las aplicaciones de forma individual o conjunta utilizando la aplicación Google Play Store de <br>
@@ -156,7 +179,10 @@ Nota: Algunas aplicaciones necesitan nuevos permisos cuando se actualizan. Es po
 en la que debes confirmar que estás de acuerdo con los nuevos permisos.<br>
 <br>
 Consejo: En algunos casos, es posible que tengas que reiniciar el dispositivo para actualizar una aplicación. <br>
-                            
+</div>
+<br>
+<br>
+<br>
                         </font>
 
                     </td>
