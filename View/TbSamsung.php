@@ -19,6 +19,17 @@
 
     <meta charset="utf-8" />
     <title>Practica bootstrap</title>
+    <script type='text/JavaScript'>
+        function blmostrocult(blconted) {
+        var c=blconted.nextSibling;
+        if(c.style.display=='none') {
+        c.style.display='block';
+        } else {
+        c.style.display='none';
+        }
+        return false;
+        }
+        </script>
 </head>
 
 <body>
@@ -92,7 +103,11 @@
                     </td>
                     <td  > 
      
-                        <font size="3">
+                        <font size="3"> 
+                            Toca el link de abajo para ver el paso a paso ↓↓↓ <br>
+                                <a onclick="return blmostrocult(this);" style="cursor: hand; cursor: pointer;">¿Cómo restaurar los valores predeterminados de fábrica de tu Samsung Galaxy tab?</a><div style="display: none;">
+                                        <br>
+                                 
                           
 ¿Cómo restaurar los valores predeterminados de fábrica de tu Samsung Galaxy tab? <br>
 
@@ -103,14 +118,19 @@ En la sección Datos personales, pulsa Restablecer valores predeterminados: <br>
 
 Pulsa Restablecer dispositivo y selecciona Eliminar todo. <br>
 Tu Galaxy tab se reiniciará. Espera hasta que el procedimiento termine. <br>
+<br>
+<br></div>
 
+         </br>
+Aqui te mostraremos un video para que puedas tambien seguir las instrucciones ↓↓↓ <br>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/MYiMUS8aoq8" frameborder="0" gesture="media" allowfullscreen></iframe>
                         </font>
 
                     </td>
                 </tr>
 
             </table>
-<iframe width="480" height="360" src="https://www.youtube.com/embed/MYiMUS8aoq8" frameborder="0" gesture="media" allowfullscreen></iframe>
+
         </div> </div>
 
 </body>
