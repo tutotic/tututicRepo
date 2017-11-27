@@ -87,7 +87,7 @@
                             <h3> LG  </h3>
                         </label>
                         <form  >
-                                <input type="image" class="img2" id="3" src="../Imagenes/LG_G.png">
+                                <input type="image" class="img2" id="3" src="../Imagenes/cellg.png">
                         </form>
                     </td>
                     <td  > 
