@@ -118,7 +118,7 @@
                                 <h4>
                                     <b>SMART-TV</b>
                                 </h4>
-                                <p>TEXTO AQUI...</p>
+                                <p>Para acceder a los tutoriales sobre Smart tv pulsa el boton ir</p>
 
                                 <a href="TV.html" class="btn btn-primary" role="button">IR</a>
                             </div>
@@ -134,7 +134,7 @@
                                     <h4>
                                         <b>TABLET</b>
                                     </h4>
-                                    <p>TEXTO AQUI...</p>
+                                    <p>Para acceder a los tutoriales sobre tablets pulsa el boton ir </p>
                                     <a href="Tables.html" class="btn btn-primary" role="button">IR</a>
                                 </div>
                             </center>
@@ -150,7 +150,7 @@
                                 <h4>
                                     <b>SMART-PHONE</b>
                                 </h4>
-                                <p>TEXTO AQUI...</p>
+                                <p>Para acceder a los tutoriales sobre Smartphones pulsa el boton ir</p>
 
                                 <a href="SmartPhone.html" class="btn btn-primary" role="button">IR</a>
                             </div>
