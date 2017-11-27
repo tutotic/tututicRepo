@@ -93,8 +93,28 @@
                     <td  > 
      
                         <font size="3">
-                            1.xcffxgfgcfghfghcfghggh <br>
-                            2. sdfjbdsgfdsjf
+                           Resetear Sony Xperia Z<br>
+<br>
+1.Ve a la pantalla de inicio y selecciona el botón Menú<br>
+2.Selecciona <br>
+3.Ve hacia abajo y selecciona la parte Respaldo:<br>
+4.Escoge la opción Reiniciar teléfono a los valores de fábrica:<br>
+5.Selecciona Resetear teléfono:<br>
+6.Escoge Borrar todo<br>
+7.Estos pasos harán que tu teléfono vuelva a su configuración de <br>
+fábrica. Ahora solo habrá que reiniciarlo<br>
+                            
+                            Hard Reset<br>
+
+1.Presiona los botónes de Inicio + Subir volumen por unos segundos <br>
+2.El aparato vibrará una vez. Puedes soltar el botón de Inicio, <br>
+pero mantén el botón de volumen apretado unos 10 segundos más <br>
+3.El teléfono vibrará y luego se apagará. Esto indica que el procedimiento<br>
+                            de Hard Reset ha sido completado<br>
+4.Apaga tu teléfono<br>
+                            aqui abajo te mostraremos un video de como hacerlo <br>
+                            <iframe width="480" height="360" src="https://www.youtube.com/embed/Ld8fLa0z1pE" frameborder="0" gesture="media" allowfullscreen></iframe>
+
                         </font>
 
                     </td>
