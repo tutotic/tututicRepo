@@ -125,7 +125,7 @@ crear una cuenta en los servicios de LG. Podrás e hacerlo <br>
             </table>
 
        
-            <iframe width="640" height="360" src="https://www.youtube.com/embed/KodVmFaEt-s" frameborder="0" gesture="media" allowfullscreen></iframe>
+            <iframe width="480" height="360" src="https://www.youtube.com/embed/KodVmFaEt-s" frameborder="0" gesture="media" allowfullscreen></iframe>
        <br>
             <br>
         </div>
