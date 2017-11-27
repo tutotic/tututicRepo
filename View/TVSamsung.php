@@ -146,14 +146,16 @@ en la siguiente ocasión si estás en un televisor que sólo tú utilices.<br>
                            <br>
                             <br>
                             aqui abajo te mostraremos un video para guiarte <br>
-                            
+                            <br>
+                            <iframe width="480" height="360" src="https://www.youtube.com/embed/ZVm9zs8UEqs" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+                            <br>
                         </font>
 
                     </td>
                 </tr>
 
             </table>
-<iframe width="480" height="360" src="https://www.youtube.com/embed/ZVm9zs8UEqs" frameborder="0" gesture="media" allowfullscreen></iframe>
         </div> </div>
 
 </body>
