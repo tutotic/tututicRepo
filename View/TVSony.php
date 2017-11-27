@@ -116,7 +116,8 @@ a la carta que puedes disfrutar a traves de tu televisor interligente.<br>
 <br> 
 <br> 
 <br> 
-                            a continuacion mostraremos un video para explicar de forma interactiva<br>
+                            a continuacion mostraremos un video para explicar de forma interactiva ⇩⇩⇩<br>
+                            <br>
                             <iframe width="480" height="360" src="https://www.youtube.com/embed/5upTJFpc5j8" frameborder="0" gesture="media" allowfullscreen></iframe>
                         </font>
 
