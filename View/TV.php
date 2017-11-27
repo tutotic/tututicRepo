@@ -89,7 +89,7 @@
                     <td class="productos">
                        
                         <div class="thumbnail">
-                            <input type="image" href="Tables.html" class="img2" id="1" src="../Imagenes/tabletsony.png">
+                            <input type="image" href="Tables.html" class="img2" id="1" src="../Imagenes/tvsony.jpg">
                             
                             <center>
                                 <div class="caption">
@@ -107,7 +107,7 @@
                     <td class="productos">
                        
                     <div class="thumbnail">
-                        <input type="image" class="img2" src="../Imagenes/Samsung7.7Tablet.png">
+                        <input type="image" class="img2" src="../Imagenes/tvsamsung.jpg">
                         <center>
                             <div class="caption">
                                 <h4>
@@ -125,7 +125,7 @@
                 <td class="productos">
                        
                         <div class="thumbnail">
-                            <input type="image" class="img2" id="3" src="../Imagenes/LG_G.png">
+                            <input type="image" class="img2" id="3" src="../Imagenes/tvlg.jpg">
                             <center>
                                 <div class="caption">
                                     <h4>
